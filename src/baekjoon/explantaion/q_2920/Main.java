@@ -1,4 +1,4 @@
-package baekjoon.problemset.q_2920;
+package baekjoon.explantaion.q_2920;
 
 import java.util.Scanner;
 
